@@ -24,5 +24,8 @@ This project converts a webpage to a PDF using Python, Selenium, and pdfkit.
    ```sh
    pip install selenium pdfkit
 2.Ensure wkhtmltopdf is installed and set the correct path in the script.
+3.Install the required libraries:
+   ```sh
+   pip install -r requirements.txt
 
 
